@@ -70,9 +70,15 @@ Permitir que o usuário interaja com um sistema musical através de um joystick,
 
 ---
 
-## 📷 Exemplo de Montagem
+## 📷 Montagem
 
-> *(Insira aqui uma imagem da protoboard e Arduino montados, se desejar)*
+![Visão geral](Montagem.heif)
+
+---
+
+## 📷 Video Ilustrando
+
+![Video de Exemplo](https://drive.google.com/file/d/1_IjcnxcwU_l-pyCUBajQsjXOCKP3EbEg/view?usp=drive_link)
 
 ---
 
